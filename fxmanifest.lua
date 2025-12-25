@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name 'sk-snow'
-author 'sk'
+name 'lucky-snow'
+author 'lucky'
 
 client_script 'client.lua'
 
-print("sk-snow Has Successfully Loaded. Made By sk https://github.com/skcfxre")
+print("lucky-snow Has Successfully Loaded. Made By lucky! https://github.com/LuckyCharmsDev")
